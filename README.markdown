@@ -10,7 +10,7 @@ Download
 
 [Download the current version of the plugin (__0.2__)][1].
 
-[1]: /file_download/4
+[1]: http://github.com/mikewest/mcw_templates/tree/master%2Fmcw_templates.txt?raw=true
 
 Requirements
 ------------
